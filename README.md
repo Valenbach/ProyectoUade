@@ -1,3 +1,4 @@
+PROTECTO PLANIFICACIÓN DE PRODUCCIÓN:
 El objetivo de este proyecto es principalmente crear una interfaz que le permita al usuario mediante determinadas preguntas crear el perfil de un proceso específico. 
 Una vez recolectada esa información se utilizarán funciones que le van a permitír al usuario evaluar las caracteristicas productivas del proceso.
 
